@@ -2,13 +2,16 @@ Privacy Policy
 For the Application “Show to me”
 Developed by Berdnikov Artem
 
-This application has the advertisements, hence it collects and safely transmits the user's advertisement identifier to the Google AdMob. 
+This application has the advertisements, hence it collects and safely transmits the user's advertisement identifier to the Google AdMob.
 The reason for that is to provide users with more relevant advertisements. This application doesn`t store user advertisement identifiers on its own.
 
-This application doesn`t use and/or collect and/or store and/or transmit any other confidential or personal information except the user's email and the alias. 
-The email and alias are used only for user identification. The email and alias are collected, transmitted and stored safely only at the Google Firebase servers.
+This application uses, collects, stores and transmits your email and alias only for user identification. 
+The email and the alias are collected, transmitted and stored safely at the Google Firebase servers.
 
-This application allows you to take and save videos. The videos are collected, transmitted and stored safely at the Google Firebase servers. 
+This application can track your geoposition but your geoposition is not collecting, transmitting or storing. This geoposition can be used only locally at your device
+with the purpose to find out if you are able to create the video at a certain place.
+
+This application allows you to take and save videos. The videos are collected, transmitted and stored safely at the Google Firebase servers.
 The videos are deleted automatically and are not stored anywhere after the expiration of the video orders.
 
 All of the data of this application is used only for this Application and does not transmit to any other third parties that is not mentioned in this policy.
