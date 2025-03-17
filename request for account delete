@@ -1,0 +1,12 @@
+Instruction how to request for account deleting
+For the Application “Show to me”
+Developed by Berdnikov Artem
+
+In order to request for deleting your account from the application send an email from your email address to the 1c.mk.ua@gmail.com with the text:
+[email of you account] - delete
+
+After your request for the account deleting all your data will be deleted from the application and it's databases including:
+- your email
+- your alias
+- your orders
+- your videos
